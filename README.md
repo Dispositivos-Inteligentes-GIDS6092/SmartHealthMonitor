@@ -1,4 +1,4 @@
-# SmartHealth Monitor
+
  
 Aplicación Android multiplataforma para monitoreo de salud personal.
 Desarrollada como proyecto integrador en UTNG — 9° Cuatrimestre 2025.
@@ -32,7 +32,5 @@ Correo electrónico: ramirezramirezlizeth@gmail.com
 
 <img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/85149e7b-886f-409e-87ea-cbd82af05f37" />
 <img width="265" height="592" alt="image" src="https://github.com/user-attachments/assets/3f568113-1812-4783-9943-2c2e7f4f686b" />
-
-
 
 
